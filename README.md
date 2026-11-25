@@ -131,12 +131,6 @@ python advanced_client.py      # run in 2+ windows: Register -> Login -> pick a 
 
 Python · tkinter · SQLite3 · socket & threading · requests · speech_recognition · pyttsx3 · matplotlib · Pillow · pyperclip · OpenWeatherMap API
 
-## 👨‍💻 Author
-
-**Rahul Pal** – BCA Student
-🔗 LinkedIn: `<add your LinkedIn link>`
-🐙 GitHub: `<add your GitHub link>`
-
 ## 📜 License
 
 This project is for educational purposes (internship submission).
